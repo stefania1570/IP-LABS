@@ -11,7 +11,7 @@ For example, if I have 4 items on my shopping list:
  - Onions
  - Shampoo
  - Pasta
- - Chicken breast meat
+ - Chicken breast meat  
 When I pick up the pasta and mark it as completed in my Todo/Shopping list, the app remembers my GPS location for where I picked the item up (probably next to the pasta alley. This information is stored on the server and aggregated with other users. When a new user goes shopping and has “pasta” on their shopping list, the application will give them directions to reach the same location the pasta is located based on previous users' shared information.  
 
 List of functionalities:  
